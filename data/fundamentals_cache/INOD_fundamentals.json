@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "INOD",
-    "fetch_date": "2026-04-16T14:34:30.942415",
+    "fetch_date": "2026-05-04T14:50:54.513676",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 59180000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 15.1,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-16T14:34:30.943562"
+  "fetched_at": "2026-05-04T14:50:54.514972"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AGNC",
-    "fetch_date": "2026-04-24T13:58:34.970455",
+    "fetch_date": "2026-05-04T14:23:19.699985",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 154000000.0,
       "2025-03-31 00:00:00": 78000000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": -950.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T13:58:34.971068"
+  "fetched_at": "2026-05-04T14:23:19.700616"
 }

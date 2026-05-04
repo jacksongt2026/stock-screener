@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SRI",
-    "fetch_date": "2026-04-24T14:49:55.791314",
+    "fetch_date": "2026-05-04T15:14:37.120460",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 218248000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.647,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:49:55.792798"
+  "fetched_at": "2026-05-04T15:14:37.122162"
 }

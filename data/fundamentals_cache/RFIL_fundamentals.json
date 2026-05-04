@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RFIL",
-    "fetch_date": "2026-04-24T14:44:29.598997",
+    "fetch_date": "2026-05-04T15:09:11.123750",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": 19200000.0,
       "2025-04-30 00:00:00": 18910000.0,
@@ -24,7 +24,6 @@
     "margin_change": -4.54,
     "operating_margin": 0.93,
     "quarterly_inventory": {
-      "2024-07-31 00:00:00": NaN,
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": 13455000.0,
       "2025-04-30 00:00:00": 12574000.0,
@@ -36,5 +35,5 @@
     "inventory_to_sales_ratio": 0.726,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:44:29.600457"
+  "fetched_at": "2026-05-04T15:09:11.125439"
 }

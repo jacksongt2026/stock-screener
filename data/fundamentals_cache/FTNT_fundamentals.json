@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FTNT",
-    "fetch_date": "2026-04-24T14:19:53.082416",
+    "fetch_date": "2026-05-04T14:44:38.289502",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 1660100000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.21,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:19:53.083888"
+  "fetched_at": "2026-05-04T14:44:38.291188"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RRC",
-    "fetch_date": "2026-04-24T14:45:34.505229",
+    "fetch_date": "2026-05-04T15:10:16.500379",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 47.93,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:45:34.506408"
+  "fetched_at": "2026-05-04T15:10:16.501666"
 }

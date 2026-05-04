@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IRD",
-    "fetch_date": "2026-04-24T14:26:42.155890",
+    "fetch_date": "2026-05-04T14:51:26.746415",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 4302000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -296.33,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:26:42.156792"
+  "fetched_at": "2026-05-04T14:51:26.747362"
 }

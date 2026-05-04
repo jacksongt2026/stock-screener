@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NRXS",
-    "fetch_date": "2026-04-24T14:36:47.943985",
+    "fetch_date": "2026-05-04T15:01:27.837910",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 761165.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.266,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:36:47.945447"
+  "fetched_at": "2026-05-04T15:01:27.839578"
 }

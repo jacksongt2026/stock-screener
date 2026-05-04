@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NAGE",
-    "fetch_date": "2026-04-27T14:55:59.968751",
+    "fetch_date": "2026-05-04T14:59:45.890468",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 29125000.0,
       "2025-03-31 00:00:00": 30481000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.604,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-27T14:55:59.970404"
+  "fetched_at": "2026-05-04T14:59:45.892159"
 }

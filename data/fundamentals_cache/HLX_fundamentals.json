@@ -1,18 +1,18 @@
 {
   "data": {
     "ticker": "HLX",
-    "fetch_date": "2026-04-24T14:23:45.179600",
+    "fetch_date": "2026-05-04T14:48:29.341558",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
-      "2024-12-31 00:00:00": 355133000.0,
+      "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 278064000.0,
       "2025-06-30 00:00:00": 302288000.0,
       "2025-09-30 00:00:00": 376960000.0,
       "2025-12-31 00:00:00": 334162000.0,
-      "2026-03-31 00:00:00": NaN
+      "2026-03-31 00:00:00": 287946000.0
     },
-    "revenue_qoq_change": null,
-    "revenue_yoy_change": null,
+    "revenue_qoq_change": -13.83041758189142,
+    "revenue_yoy_change": 3.553858104609011,
     "quarterly_eps": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": NaN,
@@ -24,10 +24,10 @@
     },
     "eps_qoq_change": -250.0,
     "eps_yoy_change": -550.0,
-    "gross_margin": NaN,
-    "margin_change": NaN,
-    "operating_margin": NaN,
+    "gross_margin": 3.07,
+    "margin_change": -12.09,
+    "operating_margin": -4.62,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:23:45.180763"
+  "fetched_at": "2026-05-04T14:48:29.342893"
 }

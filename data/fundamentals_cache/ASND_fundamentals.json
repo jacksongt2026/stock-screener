@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ASND",
-    "fetch_date": "2026-04-27T14:22:46.773445",
+    "fetch_date": "2026-05-04T14:26:33.988625",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 173916000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.218,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-27T14:22:46.775177"
+  "fetched_at": "2026-05-04T14:26:33.990755"
 }

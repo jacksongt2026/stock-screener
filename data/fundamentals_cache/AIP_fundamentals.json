@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AIP",
-    "fetch_date": "2026-04-24T13:58:49.926248",
+    "fetch_date": "2026-05-04T14:23:35.652924",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 15489000.0,
       "2025-03-31 00:00:00": 16532000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -42.05,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T13:58:49.927377"
+  "fetched_at": "2026-05-04T14:23:35.654225"
 }

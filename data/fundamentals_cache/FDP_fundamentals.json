@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FDP",
-    "fetch_date": "2026-04-24T14:18:00.002659",
+    "fetch_date": "2026-05-04T14:42:46.310866",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 1013200000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.571,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:18:00.004127"
+  "fetched_at": "2026-05-04T14:42:46.312549"
 }

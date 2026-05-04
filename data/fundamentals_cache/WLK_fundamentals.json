@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "WLK",
-    "fetch_date": "2026-04-24T14:58:11.266124",
+    "fetch_date": "2026-05-04T15:22:51.470680",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 2843000000.0,
       "2025-03-31 00:00:00": 2846000000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.653,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:58:11.267625"
+  "fetched_at": "2026-05-04T15:22:51.472371"
 }

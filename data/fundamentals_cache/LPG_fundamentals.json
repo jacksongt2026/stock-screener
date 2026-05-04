@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "LPG",
-    "fetch_date": "2026-04-24T14:30:52.628968",
+    "fetch_date": "2026-05-04T14:55:35.902894",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 80666779.0,
       "2025-03-31 00:00:00": 75888175.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.019,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:30:52.630420"
+  "fetched_at": "2026-05-04T14:55:35.904597"
 }

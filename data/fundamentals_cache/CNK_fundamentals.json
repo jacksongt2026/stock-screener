@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CNK",
-    "fetch_date": "2026-04-24T14:10:01.508937",
+    "fetch_date": "2026-05-04T14:34:48.032830",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 814300000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.037,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:10:01.510395"
+  "fetched_at": "2026-05-04T14:34:48.034534"
 }

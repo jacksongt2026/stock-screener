@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EMBC",
-    "fetch_date": "2026-04-14T14:22:38.972673",
+    "fetch_date": "2026-05-04T14:40:48.124708",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 261900000.0,
       "2025-03-31 00:00:00": 259000000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.696,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-14T14:22:38.974309"
+  "fetched_at": "2026-05-04T14:40:48.126385"
 }

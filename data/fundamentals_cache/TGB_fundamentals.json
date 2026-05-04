@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TGB",
-    "fetch_date": "2026-04-24T14:52:05.056693",
+    "fetch_date": "2026-05-04T15:16:45.194059",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 167799000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.548,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:52:05.058901"
+  "fetched_at": "2026-05-04T15:16:45.195734"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AEYE",
-    "fetch_date": "2026-04-24T13:58:15.003823",
+    "fetch_date": "2026-05-04T14:22:59.783355",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 9723000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -7.76,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T13:58:15.004973"
+  "fetched_at": "2026-05-04T14:22:59.784676"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FITB",
-    "fetch_date": "2026-04-24T14:18:36.149821",
+    "fetch_date": "2026-05-04T14:43:22.398682",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 2143000000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": -78.87323943661971,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:18:36.150528"
+  "fetched_at": "2026-05-04T14:43:22.399417"
 }

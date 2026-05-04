@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BCSF",
-    "fetch_date": "2026-04-24T14:03:53.308856",
+    "fetch_date": "2026-05-04T14:28:38.846714",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 27114000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": null,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:03:53.309462"
+  "fetched_at": "2026-05-04T14:28:38.847374"
 }

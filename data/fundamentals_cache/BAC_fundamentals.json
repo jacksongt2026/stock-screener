@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BAC",
-    "fetch_date": "2026-04-24T14:03:06.317986",
+    "fetch_date": "2026-05-04T14:27:51.931911",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 25347000000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 23.333333333333343,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:03:06.318604"
+  "fetched_at": "2026-05-04T14:27:51.932540"
 }

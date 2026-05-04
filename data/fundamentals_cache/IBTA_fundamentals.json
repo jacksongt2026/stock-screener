@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IBTA",
-    "fetch_date": "2026-04-24T14:25:11.201953",
+    "fetch_date": "2026-05-04T14:49:55.507468",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 98380000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -1.85,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-04-24T14:25:11.203090"
+  "fetched_at": "2026-05-04T14:49:55.508802"
 }
