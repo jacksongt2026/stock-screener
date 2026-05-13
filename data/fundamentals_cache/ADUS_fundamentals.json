@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ADUS",
-    "fetch_date": "2026-05-04T14:22:41.700012",
+    "fetch_date": "2026-05-13T13:16:49.972522",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 297144000.0,
       "2025-03-31 00:00:00": 337708000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 11.33,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-04T14:22:41.701313"
+  "fetched_at": "2026-05-13T13:16:49.973961"
 }
