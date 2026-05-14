@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TORO",
-    "fetch_date": "2026-05-07T15:32:59.046137",
+    "fetch_date": "2026-05-14T19:22:08.897325",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": 5318237.0,
       "2024-12-31 00:00:00": 5228802.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.033,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T15:32:59.047840"
+  "fetched_at": "2026-05-14T19:22:08.899032"
 }

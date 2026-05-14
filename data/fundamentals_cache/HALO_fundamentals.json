@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HALO",
-    "fetch_date": "2026-05-06T14:59:43.331793",
+    "fetch_date": "2026-05-14T18:49:56.741207",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 298008000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.391,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T14:59:43.333219"
+  "fetched_at": "2026-05-14T18:49:56.742983"
 }

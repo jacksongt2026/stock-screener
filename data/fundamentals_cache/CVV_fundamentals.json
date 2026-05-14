@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CVV",
-    "fetch_date": "2026-05-06T14:49:15.316179",
+    "fetch_date": "2026-05-14T18:38:05.511383",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 7414000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.317,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T14:49:15.318128"
+  "fetched_at": "2026-05-14T18:38:05.513192"
 }

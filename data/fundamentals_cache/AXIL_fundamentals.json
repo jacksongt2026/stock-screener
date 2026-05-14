@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AXIL",
-    "fetch_date": "2026-05-06T14:39:50.023245",
+    "fetch_date": "2026-05-14T18:28:43.183028",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": 6922367.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.539,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T14:39:50.024721"
+  "fetched_at": "2026-05-14T18:28:43.184837"
 }

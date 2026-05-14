@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GO",
-    "fetch_date": "2026-05-06T14:58:30.180066",
+    "fetch_date": "2026-05-14T18:48:42.642219",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 1097854000.0,
       "2025-03-31 00:00:00": 1125567000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": 0.314,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T14:58:30.181524"
+  "fetched_at": "2026-05-14T18:48:42.644784"
 }

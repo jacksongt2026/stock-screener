@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BB",
-    "fetch_date": "2026-05-07T14:43:26.345383",
+    "fetch_date": "2026-05-14T18:29:17.740341",
     "quarterly_revenue": {
       "2025-02-28 00:00:00": 143900000.0,
       "2025-05-31 00:00:00": 121700000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 15.26,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T14:43:26.346774"
+  "fetched_at": "2026-05-14T18:29:17.742322"
 }

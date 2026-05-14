@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ASYS",
-    "fetch_date": "2026-05-06T14:38:55.104605",
+    "fetch_date": "2026-05-14T18:27:48.586577",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 24385000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 1.004,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T14:38:55.106047"
+  "fetched_at": "2026-05-14T18:27:48.588339"
 }

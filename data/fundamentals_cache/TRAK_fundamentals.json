@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TRAK",
-    "fetch_date": "2026-05-06T15:30:03.707307",
+    "fetch_date": "2026-05-14T19:22:30.915918",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 5490908.0,
@@ -27,5 +27,5 @@
     "operating_margin": 31.02,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-06T15:30:03.708451"
+  "fetched_at": "2026-05-14T19:22:30.917307"
 }

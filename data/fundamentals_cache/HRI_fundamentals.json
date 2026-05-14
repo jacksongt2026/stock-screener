@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HRI",
-    "fetch_date": "2026-05-07T15:04:11.987290",
+    "fetch_date": "2026-05-14T18:51:32.486398",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 861000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 9.39,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T15:04:11.988636"
+  "fetched_at": "2026-05-14T18:51:32.487781"
 }

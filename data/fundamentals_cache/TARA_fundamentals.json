@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TARA",
-    "fetch_date": "2026-05-07T15:31:21.072041",
+    "fetch_date": "2026-05-14T19:20:25.301379",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": 0.0,
       "2025-03-31 00:00:00": 0.0,
@@ -23,5 +23,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T15:31:21.072986"
+  "fetched_at": "2026-05-14T19:20:25.302356"
 }

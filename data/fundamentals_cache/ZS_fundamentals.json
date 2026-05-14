@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ZS",
-    "fetch_date": "2026-05-07T15:39:51.327319",
+    "fetch_date": "2026-05-14T19:29:49.815619",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": 647900000.0,
       "2025-04-30 00:00:00": 678034000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -6.35,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T15:39:51.328669"
+  "fetched_at": "2026-05-14T19:29:49.816955"
 }

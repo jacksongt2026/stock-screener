@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "XRN",
-    "fetch_date": "2026-05-07T15:39:11.135871",
+    "fetch_date": "2026-05-14T19:28:53.230869",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 34952000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 24.02,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T15:39:11.137193"
+  "fetched_at": "2026-05-14T19:28:53.232223"
 }
