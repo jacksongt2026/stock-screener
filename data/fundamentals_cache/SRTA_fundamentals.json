@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SRTA",
-    "fetch_date": "2026-05-08T15:00:09.073451",
+    "fetch_date": "2026-05-15T18:09:59.583224",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 54357000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -9.59,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T15:00:09.074799"
+  "fetched_at": "2026-05-15T18:09:59.585298"
 }

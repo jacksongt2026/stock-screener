@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ARRY",
-    "fetch_date": "2026-05-08T14:11:46.417585",
+    "fetch_date": "2026-05-15T17:21:39.151478",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 275232000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.665,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T14:11:46.419322"
+  "fetched_at": "2026-05-15T17:21:39.154053"
 }

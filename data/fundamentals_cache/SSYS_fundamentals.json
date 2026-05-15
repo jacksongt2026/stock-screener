@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SSYS",
-    "fetch_date": "2026-05-08T15:00:22.871807",
+    "fetch_date": "2026-05-15T18:10:13.552463",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 150359000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 1.037,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T15:00:22.873632"
+  "fetched_at": "2026-05-15T18:10:13.554256"
 }

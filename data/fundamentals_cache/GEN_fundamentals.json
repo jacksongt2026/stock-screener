@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GEN",
-    "fetch_date": "2026-05-08T14:30:53.677168",
+    "fetch_date": "2026-05-15T17:40:45.439143",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 986000000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 35.81,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T14:30:53.678513"
+  "fetched_at": "2026-05-15T17:40:45.440948"
 }

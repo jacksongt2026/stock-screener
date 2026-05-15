@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TXO",
-    "fetch_date": "2026-05-08T15:04:26.858512",
+    "fetch_date": "2026-05-15T18:14:16.527450",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2025-03-31 00:00:00": 84325000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -274.26,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T15:04:26.859810"
+  "fetched_at": "2026-05-15T18:14:16.528836"
 }

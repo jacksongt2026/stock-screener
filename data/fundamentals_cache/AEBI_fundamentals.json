@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AEBI",
-    "fetch_date": "2026-05-07T14:38:04.333469",
+    "fetch_date": "2026-05-15T17:18:07.959376",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 298227000.0,
@@ -36,5 +36,5 @@
     "inventory_to_sales_ratio": 0.656,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-07T14:38:04.335306"
+  "fetched_at": "2026-05-15T17:18:07.961281"
 }

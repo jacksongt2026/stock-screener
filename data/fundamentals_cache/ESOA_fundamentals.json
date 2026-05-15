@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ESOA",
-    "fetch_date": "2026-05-08T14:27:02.714729",
+    "fetch_date": "2026-05-15T17:36:53.388828",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 100646114.0,
@@ -27,5 +27,5 @@
     "operating_margin": 4.31,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T14:27:02.716071"
+  "fetched_at": "2026-05-15T17:36:53.390211"
 }

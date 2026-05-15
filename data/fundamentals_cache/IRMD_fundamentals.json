@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IRMD",
-    "fetch_date": "2026-05-08T14:36:57.706369",
+    "fetch_date": "2026-05-15T17:46:50.388899",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 19511000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.541,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T14:36:57.708084"
+  "fetched_at": "2026-05-15T17:46:50.390699"
 }

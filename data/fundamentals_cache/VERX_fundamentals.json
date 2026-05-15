@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "VERX",
-    "fetch_date": "2026-05-08T15:06:10.317722",
+    "fetch_date": "2026-05-15T18:15:58.631150",
     "quarterly_revenue": {
       "2024-09-30 00:00:00": NaN,
       "2024-12-31 00:00:00": 178456000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -1.65,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-05-08T15:06:10.319671"
+  "fetched_at": "2026-05-15T18:15:58.632608"
 }
