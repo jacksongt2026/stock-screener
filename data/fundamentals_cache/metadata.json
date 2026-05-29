@@ -508,8 +508,8 @@
     "in_earnings_season": true
   },
   "APPN": {
-    "last_updated": "2026-02-09T13:31:00.336959",
-    "in_earnings_season": true
+    "last_updated": "2026-05-29T20:43:57.574231",
+    "in_earnings_season": false
   },
   "AQST": {
     "last_updated": "2025-12-04T13:36:53.101897",
@@ -3252,8 +3252,8 @@
     "in_earnings_season": true
   },
   "HY": {
-    "last_updated": "2026-02-12T13:54:49.975180",
-    "in_earnings_season": true
+    "last_updated": "2026-05-29T21:07:44.805409",
+    "in_earnings_season": false
   },
   "HYMC": {
     "last_updated": "2025-12-04T13:54:36.385180",
@@ -6624,7 +6624,7 @@
     "in_earnings_season": true
   },
   "VEEV": {
-    "last_updated": "2025-12-04T14:17:49.894756",
+    "last_updated": "2026-05-29T21:38:44.929988",
     "in_earnings_season": false
   },
   "VERA": {
@@ -7688,8 +7688,8 @@
     "in_earnings_season": true
   },
   "IP": {
-    "last_updated": "2026-02-09T13:56:39.701017",
-    "in_earnings_season": true
+    "last_updated": "2026-05-29T21:09:24.961852",
+    "in_earnings_season": false
   },
   "OPLN": {
     "last_updated": "2026-05-11T16:11:52.709163",
