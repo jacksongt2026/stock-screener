@@ -8628,8 +8628,8 @@
     "in_earnings_season": true
   },
   "CNXN": {
-    "last_updated": "2026-02-13T13:32:23.511440",
-    "in_earnings_season": true
+    "last_updated": "2026-06-02T22:19:32.253844",
+    "in_earnings_season": false
   },
   "ESQ": {
     "last_updated": "2026-05-11T15:49:49.354323",
@@ -8812,7 +8812,7 @@
     "in_earnings_season": true
   },
   "SSTI": {
-    "last_updated": "2026-03-03T14:09:15.657909",
+    "last_updated": "2026-06-02T22:59:20.722242",
     "in_earnings_season": false
   },
   "WRLD": {
@@ -9501,6 +9501,14 @@
   },
   "NL": {
     "last_updated": "2026-06-01T23:04:21.563185",
+    "in_earnings_season": false
+  },
+  "ATLC": {
+    "last_updated": "2026-06-02T22:11:23.215707",
+    "in_earnings_season": false
+  },
+  "FGMC": {
+    "last_updated": "2026-06-02T22:27:26.245484",
     "in_earnings_season": false
   }
 }
