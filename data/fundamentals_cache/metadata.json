@@ -5436,8 +5436,8 @@
     "in_earnings_season": true
   },
   "RLI": {
-    "last_updated": "2026-02-13T14:07:10.009598",
-    "in_earnings_season": true
+    "last_updated": "2026-06-05T19:17:50.435675",
+    "in_earnings_season": false
   },
   "RMBS": {
     "last_updated": "2026-05-11T16:18:01.693518",
@@ -6172,7 +6172,7 @@
     "in_earnings_season": true
   },
   "TGEN": {
-    "last_updated": "2025-12-04T14:14:50.957855",
+    "last_updated": "2026-06-05T19:24:48.274997",
     "in_earnings_season": false
   },
   "TGNA": {
@@ -9517,6 +9517,18 @@
   },
   "FOXX": {
     "last_updated": "2026-06-04T20:10:48.806680",
+    "in_earnings_season": false
+  },
+  "BELFA": {
+    "last_updated": "2026-06-05T18:36:55.005202",
+    "in_earnings_season": false
+  },
+  "FATN": {
+    "last_updated": "2026-06-05T18:50:18.103581",
+    "in_earnings_season": false
+  },
+  "PPLI": {
+    "last_updated": "2026-06-05T19:14:48.341367",
     "in_earnings_season": false
   }
 }
