@@ -7396,8 +7396,8 @@
     "in_earnings_season": true
   },
   "MKC": {
-    "last_updated": "2026-02-12T14:03:13.138404",
-    "in_earnings_season": true
+    "last_updated": "2026-06-10T21:56:42.189361",
+    "in_earnings_season": false
   },
   "MTN": {
     "last_updated": "2026-04-21T14:39:02.343050",
@@ -7544,8 +7544,8 @@
     "in_earnings_season": true
   },
   "SLGN": {
-    "last_updated": "2026-02-13T14:10:35.088024",
-    "in_earnings_season": true
+    "last_updated": "2026-06-10T22:12:01.360452",
+    "in_earnings_season": false
   },
   "VRE": {
     "last_updated": "2026-05-11T16:29:36.171599",
@@ -8508,8 +8508,8 @@
     "in_earnings_season": true
   },
   "ULCC": {
-    "last_updated": "2026-02-09T14:25:14.812482",
-    "in_earnings_season": true
+    "last_updated": "2026-06-10T22:18:21.161661",
+    "in_earnings_season": false
   },
   "UNH": {
     "last_updated": "2026-05-11T16:27:58.346131",
@@ -8884,7 +8884,7 @@
     "in_earnings_season": true
   },
   "BFC": {
-    "last_updated": "2026-03-11T13:26:44.799829",
+    "last_updated": "2026-06-10T21:27:47.967221",
     "in_earnings_season": false
   },
   "ACTG": {
@@ -9545,6 +9545,18 @@
   },
   "RBB": {
     "last_updated": "2026-06-09T20:21:54.672926",
+    "in_earnings_season": false
+  },
+  "HBT": {
+    "last_updated": "2026-06-10T21:46:28.077707",
+    "in_earnings_season": false
+  },
+  "ODC": {
+    "last_updated": "2026-06-10T22:01:29.267831",
+    "in_earnings_season": false
+  },
+  "SI": {
+    "last_updated": "2026-06-10T22:11:26.148193",
     "in_earnings_season": false
   }
 }
