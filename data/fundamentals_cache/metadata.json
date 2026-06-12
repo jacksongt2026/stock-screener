@@ -4708,8 +4708,8 @@
     "in_earnings_season": true
   },
   "OLLI": {
-    "last_updated": "2026-02-12T14:08:21.083516",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T19:12:46.048605",
+    "in_earnings_season": false
   },
   "OLMA": {
     "last_updated": "2025-12-04T14:04:36.210234",
@@ -5852,7 +5852,7 @@
     "in_earnings_season": false
   },
   "SPAI": {
-    "last_updated": "2026-03-13T14:10:03.918631",
+    "last_updated": "2026-06-12T19:23:56.968223",
     "in_earnings_season": false
   },
   "SPB": {
@@ -6836,8 +6836,8 @@
     "in_earnings_season": true
   },
   "WING": {
-    "last_updated": "2026-02-09T14:28:22.962791",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T19:32:22.166130",
+    "in_earnings_season": false
   },
   "WK": {
     "last_updated": "2026-02-09T14:28:24.943812",
@@ -7000,8 +7000,8 @@
     "in_earnings_season": true
   },
   "ZBIO": {
-    "last_updated": "2026-02-09T14:30:02.922185",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T19:34:03.129316",
+    "in_earnings_season": false
   },
   "ZD": {
     "last_updated": "2026-05-11T16:32:37.499160",
@@ -7176,8 +7176,8 @@
     "in_earnings_season": true
   },
   "LUCK": {
-    "last_updated": "2026-01-23T13:38:36.538343",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T19:05:37.825484",
+    "in_earnings_season": false
   },
   "RGA": {
     "last_updated": "2026-05-11T16:17:26.673021",
@@ -7228,8 +7228,8 @@
     "in_earnings_season": true
   },
   "HNI": {
-    "last_updated": "2026-02-13T13:45:56.477010",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T18:58:14.903697",
+    "in_earnings_season": false
   },
   "ICFI": {
     "last_updated": "2026-05-01T14:13:06.057954",
@@ -7572,8 +7572,8 @@
     "in_earnings_season": true
   },
   "GIS": {
-    "last_updated": "2026-02-09T13:51:15.706733",
-    "in_earnings_season": true
+    "last_updated": "2026-06-12T18:55:30.916798",
+    "in_earnings_season": false
   },
   "PAYX": {
     "last_updated": "2026-05-15T18:00:10.810201",
