@@ -716,7 +716,7 @@
     "in_earnings_season": true
   },
   "AXTI": {
-    "last_updated": "2025-12-04T13:38:15.561794",
+    "last_updated": "2026-06-18T14:51:22.510392",
     "in_earnings_season": false
   },
   "AYI": {
@@ -7316,8 +7316,8 @@
     "in_earnings_season": false
   },
   "ALG": {
-    "last_updated": "2026-02-10T13:44:58.486068",
-    "in_earnings_season": true
+    "last_updated": "2026-06-18T14:47:39.569015",
+    "in_earnings_season": false
   },
   "BATRK": {
     "last_updated": "2026-05-11T15:36:17.443534",
@@ -9589,6 +9589,10 @@
   },
   "OPY": {
     "last_updated": "2026-06-17T15:31:42.705616",
+    "in_earnings_season": false
+  },
+  "BWEN": {
+    "last_updated": "2026-06-18T14:55:02.637428",
     "in_earnings_season": false
   }
 }
