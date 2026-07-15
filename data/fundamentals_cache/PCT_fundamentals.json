@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PCT",
-    "fetch_date": "2026-07-02T14:11:47.185342",
+    "fetch_date": "2026-07-15T13:52:50.396117",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 1580000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 2.989,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-02T14:11:47.186919"
+  "fetched_at": "2026-07-15T13:52:50.397856"
 }
