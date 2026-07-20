@@ -6582,5 +6582,37 @@
   "VICI": {
     "last_updated": "2026-07-17T14:01:16.257039",
     "in_earnings_season": true
+  },
+  "AARD": {
+    "last_updated": "2026-07-20T13:46:49.551825",
+    "in_earnings_season": true
+  },
+  "ARLO": {
+    "last_updated": "2026-07-20T13:51:12.481308",
+    "in_earnings_season": true
+  },
+  "NP": {
+    "last_updated": "2026-07-20T14:26:12.667156",
+    "in_earnings_season": true
+  },
+  "QLYS": {
+    "last_updated": "2026-07-20T14:33:00.894316",
+    "in_earnings_season": true
+  },
+  "RCEL": {
+    "last_updated": "2026-07-20T14:33:40.162362",
+    "in_earnings_season": true
+  },
+  "RGNX": {
+    "last_updated": "2026-07-20T14:34:22.147910",
+    "in_earnings_season": true
+  },
+  "TECH": {
+    "last_updated": "2026-07-20T14:41:27.619771",
+    "in_earnings_season": true
+  },
+  "YEXT": {
+    "last_updated": "2026-07-20T14:49:01.183036",
+    "in_earnings_season": true
   }
 }
