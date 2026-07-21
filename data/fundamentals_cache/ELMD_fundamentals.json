@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ELMD",
-    "fetch_date": "2026-07-13T14:22:07.822603",
+    "fetch_date": "2026-07-21T13:33:48.106649",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 15684000.0,
       "2025-06-30 00:00:00": 17393000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.177,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-13T14:22:07.823777"
+  "fetched_at": "2026-07-21T13:33:48.108434"
 }
