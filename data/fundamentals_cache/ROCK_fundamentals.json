@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ROCK",
-    "fetch_date": "2026-07-15T13:57:56.645386",
+    "fetch_date": "2026-07-22T14:08:53.258332",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 246357000.0,
       "2025-06-30 00:00:00": 309517000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.753,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:57:56.646554"
+  "fetched_at": "2026-07-22T14:08:53.259416"
 }

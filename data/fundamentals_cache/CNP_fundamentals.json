@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CNP",
-    "fetch_date": "2026-07-15T13:22:37.613133",
+    "fetch_date": "2026-07-22T13:33:33.934670",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2920000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.224,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:22:37.614290"
+  "fetched_at": "2026-07-22T13:33:33.935773"
 }

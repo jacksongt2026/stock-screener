@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NN",
-    "fetch_date": "2026-07-15T13:48:48.375308",
+    "fetch_date": "2026-07-22T13:59:43.668775",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 1539000.0,
       "2025-06-30 00:00:00": 1202000.0,
@@ -25,5 +25,5 @@
     "operating_margin": -1944.02,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:48:48.376262"
+  "fetched_at": "2026-07-22T13:59:43.669647"
 }

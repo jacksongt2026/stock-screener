@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DBRG",
-    "fetch_date": "2026-07-15T13:25:20.609028",
+    "fetch_date": "2026-07-22T13:36:16.161986",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 39982000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 31.52,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:25:20.609939"
+  "fetched_at": "2026-07-22T13:36:16.162856"
 }

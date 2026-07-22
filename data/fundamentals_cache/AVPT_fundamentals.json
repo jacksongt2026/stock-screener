@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AVPT",
-    "fetch_date": "2026-07-15T13:15:10.846273",
+    "fetch_date": "2026-07-22T13:26:05.424350",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 93064000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 10.86,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:15:10.847178"
+  "fetched_at": "2026-07-22T13:26:05.425192"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SMTC",
-    "fetch_date": "2026-07-15T14:01:24.756956",
+    "fetch_date": "2026-07-22T14:12:21.862433",
     "quarterly_revenue": {
       "2024-10-31 00:00:00": NaN,
       "2025-01-31 00:00:00": NaN,
@@ -39,5 +39,5 @@
     "inventory_to_sales_ratio": 0.703,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T14:01:24.758138"
+  "fetched_at": "2026-07-22T14:12:21.863804"
 }

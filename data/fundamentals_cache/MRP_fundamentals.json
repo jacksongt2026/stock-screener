@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MRP",
-    "fetch_date": "2026-07-15T13:46:34.174588",
+    "fetch_date": "2026-07-22T13:57:29.331285",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": -348063000.0,
       "2025-03-31 00:00:00": 82698000.0,
@@ -34,5 +34,5 @@
     "inventory_to_sales_ratio": NaN,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:46:34.175784"
+  "fetched_at": "2026-07-22T13:57:29.332311"
 }

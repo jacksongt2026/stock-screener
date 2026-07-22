@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "BFS",
-    "fetch_date": "2026-07-15T13:16:49.190328",
+    "fetch_date": "2026-07-22T13:27:43.790054",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 71856000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 40.5,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:16:49.191292"
+  "fetched_at": "2026-07-22T13:27:43.791125"
 }
