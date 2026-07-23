@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "GPI",
-    "fetch_date": "2026-07-16T13:42:53.869870",
+    "fetch_date": "2026-07-23T13:47:28.266388",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 5505300000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.504,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-16T13:42:53.871381"
+  "fetched_at": "2026-07-23T13:47:28.268065"
 }

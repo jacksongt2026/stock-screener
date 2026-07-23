@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EPAC",
-    "fetch_date": "2026-07-15T13:28:48.768919",
+    "fetch_date": "2026-07-23T13:41:59.481208",
     "quarterly_revenue": {
       "2024-11-30 00:00:00": NaN,
       "2025-02-28 00:00:00": NaN,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 0.507,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-15T13:28:48.770127"
+  "fetched_at": "2026-07-23T13:41:59.482394"
 }
