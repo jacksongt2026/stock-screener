@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ROG",
-    "fetch_date": "2026-07-22T14:08:54.355365",
+    "fetch_date": "2026-07-29T14:32:30.846156",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 190500000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.636,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:08:54.356421"
+  "fetched_at": "2026-07-29T14:32:30.847671"
 }

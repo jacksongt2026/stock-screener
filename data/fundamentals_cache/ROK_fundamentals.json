@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ROK",
-    "fetch_date": "2026-07-22T14:08:58.668261",
+    "fetch_date": "2026-07-29T14:32:31.870277",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2001000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.547,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-22T14:08:58.669340"
+  "fetched_at": "2026-07-29T14:32:31.872524"
 }
