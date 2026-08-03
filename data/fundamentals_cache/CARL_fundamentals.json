@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CARL",
-    "fetch_date": "2026-07-27T14:19:28.398197",
+    "fetch_date": "2026-08-03T14:24:10.708542",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 10189000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.128,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-27T14:19:28.399765"
+  "fetched_at": "2026-08-03T14:24:10.710376"
 }
