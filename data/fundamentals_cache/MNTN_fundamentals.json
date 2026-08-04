@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "MNTN",
-    "fetch_date": "2026-07-28T14:05:17.739794",
+    "fetch_date": "2026-08-04T14:21:59.843418",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 64512000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 13.0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-28T14:05:17.740976"
+  "fetched_at": "2026-08-04T14:21:59.844833"
 }
