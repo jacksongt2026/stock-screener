@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DDOG",
-    "fetch_date": "2026-07-29T14:00:07.806144",
+    "fetch_date": "2026-08-06T13:55:45.133004",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": 761553000.0,
       "2025-06-30 00:00:00": 826760000.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0.73,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:00:07.807303"
+  "fetched_at": "2026-08-06T13:55:45.134424"
 }

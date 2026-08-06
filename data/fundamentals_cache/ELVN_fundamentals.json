@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ELVN",
-    "fetch_date": "2026-07-29T14:02:57.745488",
+    "fetch_date": "2026-08-06T13:58:32.869961",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 0.0,
@@ -25,5 +25,5 @@
     "operating_margin": 0,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:02:57.746366"
+  "fetched_at": "2026-08-06T13:58:32.870986"
 }

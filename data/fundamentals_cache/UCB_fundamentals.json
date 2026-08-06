@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "UCB",
-    "fetch_date": "2026-07-29T14:41:29.426415",
+    "fetch_date": "2026-08-06T14:37:06.569975",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 242927000.0,
@@ -26,5 +26,5 @@
     "eps_yoy_change": 50.79365079365079,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-29T14:41:29.427668"
+  "fetched_at": "2026-08-06T14:37:06.570690"
 }

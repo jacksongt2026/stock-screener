@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "TAP",
-    "fetch_date": "2026-07-30T14:19:31.003333",
+    "fetch_date": "2026-08-06T14:34:01.827221",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 2304100000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.346,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-07-30T14:19:31.005063"
+  "fetched_at": "2026-08-06T14:34:01.829449"
 }
