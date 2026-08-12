@@ -1,0 +1,21 @@
+{
+  "data": {
+    "ticker": "DTCX",
+    "fetch_date": "2026-08-12T13:00:17.498604",
+    "quarterly_revenue": {
+      "2025-03-31 00:00:00": 159625.0,
+      "2026-03-31 00:00:00": 2179208.0
+    },
+    "revenue_qoq_change": 1265.2046985121378,
+    "quarterly_eps": {
+      "2025-03-31 00:00:00": -0.010159,
+      "2026-03-31 00:00:00": -0.2
+    },
+    "eps_qoq_change": -1868.6977064671723,
+    "gross_margin": 23.54,
+    "margin_change": -28.87,
+    "operating_margin": -230.25,
+    "inventory_breakdown_available": false
+  },
+  "fetched_at": "2026-08-12T13:00:17.499877"
+}
