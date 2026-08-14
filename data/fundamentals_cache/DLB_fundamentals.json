@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "DLB",
-    "fetch_date": "2026-08-06T13:56:24.979829",
+    "fetch_date": "2026-08-14T12:56:39.652087",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 315546000.0,
       "2025-09-30 00:00:00": 307024000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.101,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:56:24.981652"
+  "fetched_at": "2026-08-14T12:56:39.653877"
 }

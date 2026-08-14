@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EVC",
-    "fetch_date": "2026-08-06T13:59:34.910000",
+    "fetch_date": "2026-08-14T12:59:49.967937",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 91851000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 11.13,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:59:34.911388"
+  "fetched_at": "2026-08-14T12:59:49.969327"
 }

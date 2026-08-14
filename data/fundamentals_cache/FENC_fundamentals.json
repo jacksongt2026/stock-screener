@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FENC",
-    "fetch_date": "2026-08-06T14:00:44.945935",
+    "fetch_date": "2026-08-14T13:01:00.663871",
     "quarterly_revenue": {
       "2024-12-31 00:00:00": NaN,
       "2025-03-31 00:00:00": 8751000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.123,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T14:00:44.947713"
+  "fetched_at": "2026-08-14T13:01:00.665655"
 }

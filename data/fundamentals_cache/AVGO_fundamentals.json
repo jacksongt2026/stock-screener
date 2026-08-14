@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "AVGO",
-    "fetch_date": "2026-08-06T13:45:18.867365",
+    "fetch_date": "2026-08-14T12:45:31.680732",
     "quarterly_revenue": {
       "2025-01-31 00:00:00": NaN,
       "2025-04-30 00:00:00": 15004000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.195,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-08-06T13:45:18.869234"
+  "fetched_at": "2026-08-14T12:45:31.682496"
 }
