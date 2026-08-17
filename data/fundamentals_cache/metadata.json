@@ -8302,5 +8302,25 @@
   "PKOH": {
     "last_updated": "2026-08-14T13:24:11.025931",
     "in_earnings_season": true
+  },
+  "MPLT": {
+    "last_updated": "2026-08-17T12:57:52.708438",
+    "in_earnings_season": false
+  },
+  "ONCH": {
+    "last_updated": "2026-08-17T13:02:38.896576",
+    "in_earnings_season": false
+  },
+  "Q": {
+    "last_updated": "2026-08-17T13:07:13.883336",
+    "in_earnings_season": false
+  },
+  "RM": {
+    "last_updated": "2026-08-17T13:09:15.891752",
+    "in_earnings_season": false
+  },
+  "TLSI": {
+    "last_updated": "2026-08-17T13:16:36.885688",
+    "in_earnings_season": false
   }
 }
