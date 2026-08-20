@@ -8606,5 +8606,21 @@
   "ZENA": {
     "last_updated": "2026-08-18T13:25:13.347308",
     "in_earnings_season": false
+  },
+  "FRPH": {
+    "last_updated": "2026-08-20T12:47:06.237741",
+    "in_earnings_season": false
+  },
+  "IA": {
+    "last_updated": "2026-08-20T12:52:34.176817",
+    "in_earnings_season": false
+  },
+  "NAVN": {
+    "last_updated": "2026-08-20T13:02:44.225547",
+    "in_earnings_season": false
+  },
+  "PMTS": {
+    "last_updated": "2026-08-20T13:09:14.387351",
+    "in_earnings_season": false
   }
 }
