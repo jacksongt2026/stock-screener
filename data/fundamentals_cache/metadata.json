@@ -8622,5 +8622,9 @@
   "PMTS": {
     "last_updated": "2026-08-20T13:09:14.387351",
     "in_earnings_season": false
+  },
+  "UI": {
+    "last_updated": "2026-08-21T13:21:46.875601",
+    "in_earnings_season": false
   }
 }
