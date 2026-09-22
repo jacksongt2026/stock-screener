@@ -8730,5 +8730,13 @@
   "RMBI": {
     "last_updated": "2026-09-21T18:10:21.174042",
     "in_earnings_season": false
+  },
+  "BALY": {
+    "last_updated": "2026-09-22T16:01:02.347975",
+    "in_earnings_season": false
+  },
+  "VHC": {
+    "last_updated": "2026-09-22T16:53:40.716044",
+    "in_earnings_season": false
   }
 }
